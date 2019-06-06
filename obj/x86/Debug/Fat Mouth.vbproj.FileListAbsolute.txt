@@ -1,0 +1,18 @@
+C:\Public\Documents\Arcanum Script\bin\Fat Mouth v2.exe.config
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\FatMouth.AboutBox1.resources
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\FatMouth.FMOptions.resources
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\FatMouth.frmMain.resources
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Public\Documents\Arcanum Script\bin\Fat Mouth v2.exe
+C:\Public\Documents\Arcanum Script\bin\Fat Mouth v2.pdb
+C:\Public\Documents\Arcanum Script\bin\Fat Mouth v2.xml
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\FatMouth.Resources.resources
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\Fat Mouth v2.exe
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\Fat Mouth v2.xml
+C:\Users\Public\Documents\Arcanum Script\FatMouth\obj\x86\Debug\Fat Mouth v2.pdb
+C:\Users\Public\Documents\Arcanum Script\FatMouth\bin\Release\Fat Mouth v2.exe.config
+C:\Users\Public\Documents\Arcanum Script\FatMouth\bin\Release\Fat Mouth v2.exe
+C:\Users\Public\Documents\Arcanum Script\FatMouth\bin\Release\Fat Mouth v2.pdb
+C:\Users\Public\Documents\Arcanum Script\FatMouth\bin\Release\Fat Mouth v2.xml
